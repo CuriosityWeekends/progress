@@ -5,10 +5,10 @@
 
 ## Executive Summary
 
-This report documents the activities and projects undertaken at Curiosity Weekends makerspace during June through September 2025. The makerspace, founded by high school students at Linnk Academy in Kasaragod, Kerala, demonstrates active engagement across 26 GitHub repositories with 9 new projects launched during this period.
+This report documents the activities and projects undertaken at Curiosity Weekends makerspace during June through September 2025. The makerspace, founded by high school students at Linnk Academy in Kasaragod, Kerala, demonstrates active engagement across 25 GitHub repositories with 8 new projects launched during this period.
 
 ### Key Metrics
-- **New Repositories Created:** 9
+- **New Repositories Created:** 8
 - **Active Repositories Updated:** 15
 - **Active Contributors:** 7
 - **Total Commits (Period):** 100+
@@ -55,15 +55,6 @@ This report documents the activities and projects undertaken at Curiosity Weeken
 - **Contributors:** afkar-3374
 - **Description:** A temporary System For Manage Components at Lab
 - **Status:** Early-stage HTML-based component management system for laboratory environment
-
-#### kutty_madhavan
-- **Created:** July 12, 2025
-- **Last Updated:** July 13, 2025
-- **Primary Language:** None
-- **Commits:** 8
-- **Contributors:** jemshid
-- **License:** MIT License
-- **Status:** Development in progress
 
 #### eye_m.py
 - **Created:** July 11, 2025
@@ -353,8 +344,8 @@ This report documents the activities and projects undertaken at Curiosity Weeken
 
 ### Most Active Contributors (June-September 2025)
 
-1. **jemshid** - 10 repositories
-   - quantum_computing, kutty_madhavan, progress, physics, maths, fpv-drone-hack-lab, thermocol_cutter_hot_wire, lab, curiositybot-v2, TemPro
+1. **jemshid** - 9 repositories
+   - quantum_computing, progress, physics, maths, fpv-drone-hack-lab, thermocol_cutter_hot_wire, lab, curiositybot-v2, TemPro
 
 2. **hadinah** - 9 repositories
    - Voice-AI, entrylogger, physics, maths, devops, curiositybot-v2, VoiceAI, TemPro, .github
@@ -460,8 +451,8 @@ This report documents the activities and projects undertaken at Curiosity Weeken
 ## Statistics Summary
 
 ### Repository Metrics
-- **Total Repositories:** 26
-- **Repositories Created in Period:** 9
+- **Total Repositories:** 25
+- **Repositories Created in Period:** 8
 - **Repositories Updated in Period:** 15
 - **Total Commits (All Time):** 200+
 - **Active Contributors:** 14
@@ -508,7 +499,7 @@ Founded in 2024 by high school students for weekend learning, skill-sharing, and
 
 The June-September 2025 period demonstrates robust activity at Curiosity Weekends makerspace with:
 
-1. **Sustained Growth:** 9 new projects launched, representing 35% growth in repository count
+1. **Sustained Growth:** 8 new projects launched, representing 32% growth in repository count
 2. **Diverse Technology Focus:** Projects spanning IoT, AI, web development, physics, and mathematics
 3. **Strong Collaboration:** Multiple projects with 4+ contributors showing effective teamwork
 4. **Real-World Impact:** Production systems (TemPro), published packages (entrylogger), and practical lab improvements
