@@ -64,7 +64,7 @@ This report documents the activities and projects undertaken at Curiosity Weeken
 - **Contributors:** afkar-3374
 - **Status:** Initial implementation
 
-#### fpv-drone-hack-lab ⭐
+#### fpv-drone-hack-lab
 - **Created:** July 6, 2025
 - **Last Updated:** July 13, 2025
 - **Description:** A project to reverse-engineer and manually control an FPV drone using UDP payloads captured via PCAPdroid
@@ -111,7 +111,7 @@ This report documents the activities and projects undertaken at Curiosity Weeken
 - **License:** MIT License
 - **Status:** Initial setup
 
-#### maths ⭐
+#### maths
 - **Created:** June 22, 2025
 - **Last Updated:** August 16, 2025
 - **Description:** HS math in python
@@ -131,7 +131,7 @@ This report documents the activities and projects undertaken at Curiosity Weeken
 
 ### IoT & Hardware Projects
 
-#### TemPro ⭐⭐
+#### TemPro
 - **Created:** May 2, 2025
 - **Last Updated:** July 17, 2025
 - **Description:** IoT-based temperature monitoring using ESP8266 with MQTT and a web dashboard for real-time data
